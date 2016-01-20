@@ -1,2 +1,6 @@
-# JSR-000339 时候 rest的2.0版本的java规范之一.规范编号000339
-This file serves as your book's preface, a great place to describe your book's content and ideas.
+# 关于本书说明:
+    JSR-000339 是一个java协议,关于restful2.0的规范要求.官方文档E文版出来后一直没有看到相应的中文版本,此书主要是对E文版的规范进行翻译,同时也会添加自己的理解.
+    
+    ----
+    作者:陆宇
+    Email:luyuwww@126.com
